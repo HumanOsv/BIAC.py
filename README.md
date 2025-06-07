@@ -4,7 +4,7 @@ Bond Indices and Atomic Charges (BIAC): The visualization properties computed wi
 
 # Execution mode
 
-Para iniciar la aplicación, ejecute el siguiente comando en su terminal:
+To start the application, run the following command in your terminal:
 
 ```
 python BIAC.py Ethylene.log
